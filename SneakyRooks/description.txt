@@ -1,0 +1,1 @@
+This program determines whether or not rooks placed on a chessboard are under attack from one another.

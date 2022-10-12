@@ -1,0 +1,1 @@
+This program prints out an "Orcheeseo" from a given input. An "orcheeseo" is a cookie made with the cookies and cream from an Oreo with at least one layer of Goldfish crackers added. It has a height limit of 4 millimeters, and the top and bottom layers must be cookies.

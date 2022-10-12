@@ -1,0 +1,1 @@
+This program implements "lonely party arrays," which are arrays that are broken into fragments that are allocated and deallocated on an as-needed basis, rather than being allocated all at once. The end result is a dynamic array that is optimized to prevent unnecessary memory bloat.

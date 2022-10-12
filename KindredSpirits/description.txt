@@ -1,0 +1,1 @@
+This program uses recursion to analyze binary trees to determine if they are a reflection or kindred spirit. A reflection is a pair of two binary trees that are symmetric in terms of their structure and node values, while kindred spirits are a pair of binary trees where the preorder traversal of one tree corresponds to the postorder traversal of the other.
